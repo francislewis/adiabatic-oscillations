@@ -1,0 +1,4 @@
+Pressure: 1003.4 +/- 0.5 hPa
+Volume of Apparatus: 12.85 +/- 0.1 l
+Length of glass tube: 118.3 +/- 0.2 cm
+Inner diameter of tube: 20.00 +/- 0.1 mm

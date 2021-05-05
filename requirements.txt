@@ -1,0 +1,7 @@
+Jupyter Notebook
+
+Python Modules:
+numpy 
+pandas
+scipy 
+matplotlib

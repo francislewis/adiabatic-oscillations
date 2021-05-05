@@ -1,0 +1,4 @@
+Pressure: 995.9 +/-0.2 hPa
+Err in volume +/- 2 ml
+Mass of the plunger: 98.3132g 
+Plunger Diameter: 34.18 +/- 0.01 mm
