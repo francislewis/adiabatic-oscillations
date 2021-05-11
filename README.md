@@ -16,6 +16,6 @@ Under [`/reports`](/reports) you will find my 2<sup>nd</sup> year undergradute p
 
 ## License & Disclaimer 
 
-Notebooks are under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). Everything else is under exclusive copyright, with the copyright of [`/data/RAW`](/data/RAW) belonging to the University of Bristol.
+Notebooks are under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). Everything else is under exclusive copyright, with the copyright of [`/data/raw`](/data/raw) belonging to the University of Bristol.
 
 Note: If you are a student in the University of Bristol doing this project for your physics course, **DO NOT** copy anything in here, it will be flagged for plagarism and you will get caught. 
