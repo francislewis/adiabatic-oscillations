@@ -15,3 +15,7 @@ Under `/reports` you will find my 2<sup>nd</sup> year undergradute physics repor
 * [`matplotlib`](https://matplotlib.org/)
 
 ## License & Disclaimer 
+
+Notebooks are under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). Everything else is under exclusive copyright, with the copyright of `/data/RAW` belonging to the University of Bristol.
+
+Note: If you are a student in the University of Bristol doing this project for your physics course, **DO NOT** copy anything in here, it will be flagged for plagarism and you will get caught. 
