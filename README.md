@@ -1,7 +1,7 @@
 # adiabatic-oscillations
 Data and notebooks to find the ratio of specific heat capacities for Air, Argon and CO<sub>2</sub> using a variety of methods. 
 
-Under [`/reports`](/reports) you will find my 2<sup>nd</sup> year undergradute physics report that this project is based around.
+Under [`/reports`](/reports) you will find my 2<sup>nd</sup> year undergraduate physics report that this project is based around.
 
 
 ## Python Requirements
